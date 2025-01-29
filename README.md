@@ -8,7 +8,7 @@ This repository contains a Power BI dashboard project. The dashboard provides in
 
 
 ## Files and Structure
-The Power BI file (`presentation2.pbix`) contains the following key components:
+The Power BI file (`Dashboard Project.pbix`) contains the following key components:
 
 1. **Data Model**:
    - Integrated tables with relationships between sales, customers, and product details.
