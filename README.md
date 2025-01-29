@@ -30,8 +30,8 @@ The Power BI file (`Dashboard Project.pbix`) contains the following key componen
   ## How to Use
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/data-analysis-on-sample-superstore.git
+   git clonehttps://github.com/divya-patil132/Superstore_Data_Analysis.git
    ```
-2. Open the `presentation2.pbix` file in Power BI Desktop.
+2. Open the `Dashboard Project.pbix` file in Power BI Desktop.
 3. Interact with the dashboard by applying filters and exploring visualizations.
 4. Modify or extend the dashboard as needed for your analysis.
