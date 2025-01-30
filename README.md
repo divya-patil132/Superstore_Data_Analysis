@@ -1,8 +1,8 @@
-# Superstore_Data_Analysis
+# Superstore-Sales-Analysis-Dashboard
 The Dashboard of PowerBi where the analysis of the dataset named Sample Superstore is done by using charts, cards and KPIs
 
 
-# Data Analysis on Sample Superstore
+# Sales Analysis Dashboard using PowerBI
 
 
 ## Overview
